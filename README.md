@@ -50,7 +50,7 @@ Web3，推动整个生态的发展。
 - [主权个人.pdf](https://github.com/xboring/web3book/blob/main/pdf/%E4%B8%BB%E6%9D%83%E4%B8%AA%E4%BA%BA.pdf)
 - [greenpill中文版.pdf](https://github.com/xboring/web3book/blob/main/pdf/greenpill%E4%B8%AD%E6%96%87%E7%89%88.pdf)
 - [ImpactDAOs中文版.pdf](https://github.com/xboring/web3book/blob/main/pdf/ImpactDAOs%E4%B8%AD%E6%96%87%E7%89%88.pdf)
-
+- [https://github.com/KeyMap-CC/Web3Book/blob/main/pdf/HowtoDeFi%E9%AB%98%E7%BA%A7%E4%B8%AD%E6%96%87%E7%89%88v1.pdf）
 #### （2）a16z
 
 - [“你打算发币吗?” a16z CTO 带你深度解析代币种类及去中心化路径](https://mp.weixin.qq.com/s/yCKTTzIjYKVD66PvofwYvw)
