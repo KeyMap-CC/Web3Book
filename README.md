@@ -90,6 +90,8 @@ Web3，推动整个生态的发展。
 ---
 
 ### 6. Just Have Fun
+- [英语学习](https://hzpt-inet-club.github.io/english-note/)
+
 
 ---
 
