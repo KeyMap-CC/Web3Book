@@ -64,7 +64,7 @@ Web3，推动整个生态的发展。
 
 #### （1）公链体系+钱包体系
 
-- Golang
+- [Golang](https://github.com/golang/go)
 - Rust
 - C++
 - Haskell
