@@ -90,7 +90,7 @@ Web3，推动整个生态的发展。
 ---
 
 ### 6. Just Have Fun
--[KeyMap 招募TG](https://t.me/KeyMapDAO/355)
+- [KeyMap 招募TG](https://t.me/KeyMapDAO/355)
 
 ---
 
