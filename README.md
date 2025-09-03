@@ -85,13 +85,12 @@ Web3，推动整个生态的发展。
 
 ---
 
-### 5. 火星漫游 - 加密交易与冒险
-
+### 5. 其他学习
+- [英语学习](https://hzpt-inet-club.github.io/english-note/)
 ---
 
 ### 6. Just Have Fun
-- [英语学习](https://hzpt-inet-club.github.io/english-note/)
-
+-[KeyMap 招募TG](https://t.me/KeyMapDAO/355)
 
 ---
 
