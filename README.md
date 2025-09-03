@@ -86,7 +86,7 @@ Web3，推动整个生态的发展。
 ---
 
 ### 5. 其他学习
-- [英语学习](https://hzpt-inet-club.github.io/english-note/)
+- [从0开始学习英语语法](https://hzpt-inet-club.github.io/english-note/)
 ---
 
 ### 6. Just Have Fun
